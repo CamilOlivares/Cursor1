@@ -1,6 +1,7 @@
 <!DOCTYPE html> 
 <html lang="es">
 <head>
+ <body>
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Titulo</title> 
@@ -17,5 +18,5 @@
     <script src="js/cursor.js"></script>
   
 
-
+</body>
 </html>
