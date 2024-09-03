@@ -17,5 +17,5 @@
     <script src="js/cursor.js"></script>
   
 
-</body>
+
 </html>
